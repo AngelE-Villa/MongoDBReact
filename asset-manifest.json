@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MongoDBReact/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/MongoDBReact/static/js/main.9fdaa362.chunk.js",
+    "main.js.map": "/MongoDBReact/static/js/main.9fdaa362.chunk.js.map",
+    "runtime-main.js": "/MongoDBReact/static/js/runtime-main.cdaa6a4a.js",
+    "runtime-main.js.map": "/MongoDBReact/static/js/runtime-main.cdaa6a4a.js.map",
+    "static/css/2.e94d0158.chunk.css": "/MongoDBReact/static/css/2.e94d0158.chunk.css",
+    "static/js/2.ab8e4705.chunk.js": "/MongoDBReact/static/js/2.ab8e4705.chunk.js",
+    "static/js/2.ab8e4705.chunk.js.map": "/MongoDBReact/static/js/2.ab8e4705.chunk.js.map",
+    "index.html": "/MongoDBReact/index.html",
+    "precache-manifest.9bb7f696992d34989900c496c7b2561a.js": "/MongoDBReact/precache-manifest.9bb7f696992d34989900c496c7b2561a.js",
+    "service-worker.js": "/MongoDBReact/service-worker.js",
+    "static/css/2.e94d0158.chunk.css.map": "/MongoDBReact/static/css/2.e94d0158.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/MongoDBReact/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ab8e4705.chunk.js.LICENSE.txt": "/MongoDBReact/static/js/2.ab8e4705.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/MongoDBReact/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/MongoDBReact/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/MongoDBReact/static/media/primeicons.b0f5d02f.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdaa6a4a.js",
+    "static/css/2.e94d0158.chunk.css",
+    "static/js/2.ab8e4705.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9fdaa362.chunk.js"
+  ]
+}
